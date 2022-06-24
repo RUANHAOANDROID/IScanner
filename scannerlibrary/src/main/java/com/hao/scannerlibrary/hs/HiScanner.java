@@ -11,6 +11,9 @@ import com.histonepos.npsdk.api.IServiceManager;
 import com.histonepos.npsdk.bind.Const;
 import com.histonepos.npsdk.scanner.IScanEventListener;
 import com.histonepos.npsdk.scanner.IScannerService;
+/**
+ * HS650
+ */
 
 public class HiScanner implements IScanner {
 

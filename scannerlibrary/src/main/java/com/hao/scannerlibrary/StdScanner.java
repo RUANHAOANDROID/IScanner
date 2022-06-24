@@ -8,7 +8,7 @@ import android.os.Bundle;
  * 使用扫码枪等的扫描器。
  *
  */
-public class StdScanner implements IScanner {
+    public class StdScanner implements IScanner {
 
     private static final String DEFAULT_SCAN_RESULT = "";
 
